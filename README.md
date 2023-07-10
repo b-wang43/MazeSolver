@@ -1,0 +1,2 @@
+# MazeSolver
+DFS Maze Visualizer
